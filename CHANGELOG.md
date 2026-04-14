@@ -2,6 +2,13 @@
 
 All notable changes to Council will be documented in this file.
 
+## [2.5.0] - 2026-04-14
+
+### Added
+- Canons of Dort: 5 canons covering the Five Points of Calvinism
+- Completes the Three Forms of Unity (Belgic Confession, Heidelberg Catechism, Canons of Dort)
+- Database: 34 sources, 530 content units
+
 ## [2.4.0] - 2026-04-14
 
 ### Added
