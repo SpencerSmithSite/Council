@@ -2,6 +2,21 @@
 
 All notable changes to Council will be documented in this file.
 
+## [2.4.0] - 2026-04-14
+
+### Added
+- Holding Fast the Form of Sound Words (2 Timothy): 3 passages
+- URCNA: 2 articles on Three Forms of Unity, Church Order
+- Tertullian Apology expanded: Freedom of Religion, Martyrs
+- On the Incarnation (Athanasius) expanded: Divine Dilemma, Solution, Incarnation
+
+### Fixed
+- Removed duplicate Shorter Catechism source (already exists as WSC source 32)
+
+### Milestone
+- **All sources now have content** — zero empty sources
+- Database: 33 sources, 525 content units, 2,171 tag associations
+
 ## [2.3.0] - 2026-04-14
 
 ### Added
