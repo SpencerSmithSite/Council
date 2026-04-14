@@ -2,6 +2,13 @@
 
 All notable changes to Council will be documented in this file.
 
+## [1.8.0] - 2026-04-14
+
+### Added
+- Westminster Shorter Catechism expanded: 6 more questions (Creation, Sin, Covenant, Christ's Offices, Priestly Office, Benefits)
+- Thirty-Nine Articles expanded: 5 articles (Trinity, Incarnation, Resurrection, Holy Spirit, Scripture)
+- Database: 34 sources, 495 content units, 1,830 tag associations
+
 ## [1.7.0] - 2026-04-14
 
 ### Added
