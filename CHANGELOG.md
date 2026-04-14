@@ -2,6 +2,14 @@
 
 All notable changes to Council will be documented in this file.
 
+## [2.7.0] - 2026-04-14
+
+### Added
+- Gaudium et Spes (Vatican II): 3 chapters on human dignity, Church, atheism
+- Second Helvetic Confession: 4 chapters on Scripture, Trinity, Creation, Providence
+- Westminster Confession of Faith: 4 chapters on Scripture, Trinity, Covenant, Effectual Calling
+- Database: 38 sources, 546 content units
+
 ## [2.6.0] - 2026-04-14
 
 ### Added
