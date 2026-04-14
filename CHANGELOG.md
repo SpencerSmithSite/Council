@@ -2,6 +2,45 @@
 
 All notable changes to Council will be documented in this file.
 
+## [6.0.0] - 2026-04-14
+
+### 🎉 Major Milestone: 1000+ Content Units!
+
+This session saw massive expansion of the Council theology database:
+
+**Early Church Fathers:**
+- Added extensive patristic works: Hilary, Basil, Gregory of Nyssa, Gregory of Nazianzus, Chrysostom, Athanasius, Cyril of Alexandria, Cyril of Jerusalem, Methodius, Nemesius, Didymus, Gregory Thaumaturgus, Theodore Studite, Gregory Palamas, John of Damascus
+
+**Reformation:**
+- Calvin's Institutes, Luther's Bondage of the Will and Freedom of a Christian
+- Book of Concord, Smalcald Articles, Formula of Concord
+- Second Helvetic Confession, Westminster Confession of Faith, Larger Catechism
+- Scots Confession, Savoy Declaration, 1689 London Baptist Confession
+
+**Devotional Classics:**
+- Imitation of Christ (Thomas a Kempis)
+- Interior Castle, Dark Night of the Soul (Teresa, John of the Cross)
+- Spiritual Exercises (Ignatius), Pilgrim's Progress (Bunyan)
+- Practice of the Presence of God (Brother Lawrence), Way of the Pilgrim
+
+**Modern Theology:**
+- Church Dogmatics (Barth), Theology of Hope (Moltmann)
+- Cost of Discipleship (Bonhoeffer), Letters and Papers from Prison, Life Together
+- Mere Christianity, Screwtape Letters, Abolition of Man, Problem of Pain, Great Divorce, Four Loves (Lewis)
+- Knowing God (Packer), Pursuit of God (Tozer), Desiring God (Piper)
+- Theology of the Reformers, Systematic Theology (Grudem, Erickson)
+- Resurrection of the Son of God, Paul and the Faithfulness of God (Wright)
+
+**Apologetics:**
+- Evidence That Demands a Verdict, Case for Christ (Strobel)
+- The God Who Is There, How Should We Then Live, Escape from Reason (Schaeffer)
+
+### Stats
+- Database: 172 sources, 1005 content units
+- 2,800+ tag associations
+- All major Christian traditions represented
+- Comprehensive coverage from Early Church to Contemporary theology
+
 ## [5.3.0] - 2026-04-14
 
 ### Added
