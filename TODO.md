@@ -13,6 +13,8 @@
 - [x] Add Catechism of the Catholic Church to database
 - [x] Add Westminster Shorter Catechism to database
 - [x] Add Augsburg Confession to database
+- [x] Add Athanasian Creed to database
+- [x] Add Nicene Creed to database
 - [x] Flutter app scaffolding
 - [x] Database service (SQLite + FTS5)
 - [x] Ollama service with streaming

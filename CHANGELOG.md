@@ -2,6 +2,14 @@
 
 All notable changes to Council will be documented in this file.
 
+## [0.7.0] - 2026-04-14
+
+### Added
+- Athanasian Creed added to database
+- Nicene Creed added to database
+- 7 sections covering ecumenical Trinitarian theology
+- Sources ID 34-35, Ecumenical tradition
+
 ## [0.6.0] - 2026-04-14
 
 ### Added
