@@ -2,6 +2,15 @@
 
 All notable changes to Council will be documented in this file.
 
+## [2.9.0] - 2026-04-14
+
+### Added
+- First Epistle of Clement: 3 chapters on unity, humility, church order
+- Martyrdom of Polycarp: 2 chapters on witness and faithfulness
+- Barmen Declaration (1934): 3 theses on Christ as only Word and Lord
+- Roman Catechism (Council of Trent): 3 chapters on Creed, Sacraments, Commandments
+- Database: 45 sources, 567 content units
+
 ## [2.8.0] - 2026-04-14
 
 ### Added
