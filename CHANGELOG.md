@@ -2,6 +2,13 @@
 
 All notable changes to Council will be documented in this file.
 
+## [0.6.0] - 2026-04-14
+
+### Added
+- Augsburg Confession added to database
+- 10 key articles covering Lutheran theology
+- Source ID 33, Lutheran tradition
+
 ## [0.5.0] - 2026-04-14
 
 ### Added
