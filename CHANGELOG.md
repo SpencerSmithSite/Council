@@ -2,6 +2,14 @@
 
 All notable changes to Council will be documented in this file.
 
+## [2.8.0] - 2026-04-14
+
+### Added
+- Formula of Concord (Lutheran): 3 articles on Original Sin, Free Will, Righteousness of Faith
+- Chicago-Lambeth Quadrilateral (Anglican): 4 points on Scripture, Creed, Sacraments, Episcopate
+- The Didache (Early Church): 3 chapters on Two Ways, Baptism, Eucharist
+- Database: 41 sources, 556 content units
+
 ## [2.7.0] - 2026-04-14
 
 ### Added
