@@ -2,6 +2,24 @@
 
 All notable changes to Council will be documented in this file.
 
+## [8.0.0] - 2026-04-14
+
+### 🎉 Major Milestone: 1200+ Content Units!
+
+This session continued massive expansion of the Council theology database:
+
+**Augustine Scriptural Works:**
+- Homilies on Matthew, Luke, John, Acts, Romans, Galatians, Ephesians
+- Homilies on Philippians, Colossians, Thessalonians, Pastoral Epistles
+- Homilies on Hebrews, Catholic Epistles, Revelation
+- Enarrations on the Psalms
+
+### Stats
+- Database: 228 sources, 1179 content units
+- 3,100+ tag associations
+- Comprehensive coverage of Augustines scriptural commentaries
+- All major Christian traditions represented
+
 ## [7.0.0] - 2026-04-14
 
 ### 🎉 Major Milestone: 1100+ Content Units, 200+ Sources!
