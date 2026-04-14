@@ -2,6 +2,16 @@
 
 All notable changes to Council will be documented in this file.
 
+## [3.5.0] - 2026-04-14
+
+### Added
+- Decretum of Gratian (Canon Law): 2 distinctions on natural and ecclesiastical law
+- Second Council of Constantinople (553 AD): 2 canons on Trinity, Christology
+- Third Council of Constantinople (680-681 AD): 2 canons on Two Wills in Christ
+- Council of Chalcedon (451 AD): 2 canons on Christology and two natures
+- Council of Jerusalem (1672 AD): 3 chapters on Trinity, Scripture, Sacraments
+- Database: 58 sources, 654 content units
+
 ## [3.4.0] - 2026-04-14
 
 ### Added
