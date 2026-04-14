@@ -2,6 +2,17 @@
 
 All notable changes to Council will be documented in this file.
 
+## [1.1.0] - 2026-04-14
+
+### Added
+- Augsburg Confession expanded: articles 13-18 (Vows, Church Government, Customs, Civil Government, Return of Christ, Free Will)
+- Contra Celsum (Origen): 3 sections on truth, incarnation, resurrection
+- Confessions (Augustine): 5 books covering infancy, conversion, memory, time, creation
+- Great Catechism (Gregory of Nyssa): 3 chapters on purpose, incarnation, resurrection
+
+### Fixed
+- Westminster Shorter Catechism tradition corrected to Reformed (was Eastern Orthodox)
+
 ## [1.0.0] - 2026-04-14
 
 ### Added
