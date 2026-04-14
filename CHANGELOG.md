@@ -2,6 +2,18 @@
 
 All notable changes to Council will be documented in this file.
 
+## [3.1.0] - 2026-04-14
+
+### Added
+- The Philokalia (Eastern Orthodox): 3 sections on prayer, Jesus Prayer, dispassion
+- Wesleys Standard Sermons (Methodist): 3 sermons on salvation, grace, perfection
+- 1689 London Baptist Confession (Reformed Baptist): 3 chapters
+
+### 🎉 Milestone
+- **50 sources** in the database!
+- 581 content units, 2,300+ tag associations
+- All major Christian traditions represented
+
 ## [3.0.0] - 2026-04-14
 
 ### 🎉 Major Milestone: 47 Sources, 572 Content Units
