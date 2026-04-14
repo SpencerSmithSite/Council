@@ -2,6 +2,15 @@
 
 All notable changes to Council will be documented in this file.
 
+## [3.0.0] - 2026-04-14
+
+### 🎉 Major Milestone: 47 Sources, 572 Content Units
+
+- Database nearly doubled in size during autonomous session
+- Added 14 new sources across all traditions
+- New sources: Canons of Dort, Council of Trent, Gaudium et Spes, Second Helvetic Confession, Westminster Confession of Faith, Formula of Concord, Chicago-Lambeth Quadrilateral, The Didache, First Epistle of Clement, Martyrdom of Polycarp, Barmen Declaration, Roman Catechism, Scots Confession, Savoy Declaration
+- 2,249 tag associations for robust RAG retrieval
+
 ## [2.9.0] - 2026-04-14
 
 ### Added
