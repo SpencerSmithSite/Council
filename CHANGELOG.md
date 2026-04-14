@@ -2,6 +2,33 @@
 
 All notable changes to Council will be documented in this file.
 
+## [7.0.0] - 2026-04-14
+
+### 🎉 Major Milestone: 1100+ Content Units, 200+ Sources!
+
+This session continued massive expansion of the Council theology database:
+
+**Augustine Works:**
+- On the Good of Marriage, On Continence, On Lying, On Patience
+- On the Work of Monks, On the Teacher, On the Morals of the Catholic Church
+- On the Profit of Believing, On the Grace of Christ, On Nature and Grace
+- On the Spirit and the Letter, On the Gift of Perseverance
+
+**Tertullian Works:**
+- On the Soul, On Idolatry, On the Flesh of Christ, On the Resurrection of the Flesh
+- On Prayer, On Patience, On Repentance, On Modesty
+- On the Veiling of Virgins, On the Apparel of Women, On Monogamy, To His Wife
+
+**Cyprian Works:**
+- On the Lapsed, On the Mortality, On Works and Alms, On the Advantage of Patience
+- On the Lord's Prayer, On the Unity of the Church, On the Dress of Virgins, To Fortunatus
+
+### Stats
+- Database: 209 sources, 1101 content units
+- 3,000+ tag associations
+- Comprehensive coverage of Early Church Fathers (Augustine, Tertullian, Cyprian)
+- All major Christian traditions represented
+
 ## [6.0.0] - 2026-04-14
 
 ### 🎉 Major Milestone: 1000+ Content Units!
