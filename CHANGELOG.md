@@ -2,6 +2,24 @@
 
 All notable changes to Council will be documented in this file.
 
+## [13.0.0] - 2026-04-14
+
+### 🎉 Major Milestone: 300+ Sources, 1400+ Content Units!
+
+This session completed comprehensive Ambrose corpus:
+
+**Ambrose Works:**
+- On Paradise, On Cain and Abel, On Noah, On Abraham
+- On Isaac, On Jacob, On Joseph, On David
+- On Tobias, On Elijah, On the Good of Death
+- On the Good of Widowhood, On Virginity, Selected Letters
+
+### Stats
+- Database: 300 sources, 1410 content units
+- 3,500+ tag associations
+- Comprehensive Ambrose corpus complete
+- All major Christian traditions represented
+
 ## [12.0.0] - 2026-04-14
 
 ### 🎉 Major Milestone: 1400+ Content Units!
