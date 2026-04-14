@@ -2,6 +2,24 @@
 
 All notable changes to Council will be documented in this file.
 
+## [5.1.0] - 2026-04-14
+
+### Added
+- Tract 90 (Newman): 3 sections on Anglican via media
+- Lectures on Calvinism (Kuyper): 3 lectures on sphere sovereignty
+- Church Dogmatics (Barth): 3 sections on Word, Election, Reconciliation
+- Theology of Hope (Moltmann): 3 chapters
+- Cost of Discipleship (Bonhoeffer): 3 chapters
+- Mere Christianity (C.S. Lewis): 3 books
+- Orthodoxy (Chesterton): 3 chapters
+- The Everlasting Man (Chesterton): 3 chapters
+- Summa Theologica (Aquinas): 3 questions on God's existence
+- On the Sacraments (Aquinas): 3 questions
+
+### Stats
+- Database: 110 sources, 810 content units
+- Modern theology corpus significantly expanded
+
 ## [5.0.0] - 2026-04-14
 
 ### 🎉 Major Milestone: 100 Sources!
