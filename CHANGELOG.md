@@ -2,6 +2,20 @@
 
 All notable changes to Council will be documented in this file.
 
+## [4.1.0] - 2026-04-14
+
+### Added
+- On Christian Doctrine (Augustine): 3 books on Scripture interpretation
+- On the Catechizing of the Uninstructed (Augustine): 3 chapters
+- The City of God (Augustine): 3 books on Two Cities
+- On the Predestination of the Saints (Augustine): 3 chapters
+- On the Sacraments (Augustine): 3 chapters
+- On the Holy Spirit (Augustine): 3 chapters
+
+### Stats
+- Database: 85 sources, 735 content units
+- Augustine corpus significantly expanded
+
 ## [4.0.0] - 2026-04-14
 
 ### 🎉 Major Milestone: 700+ Content Units, 75+ Sources
