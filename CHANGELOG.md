@@ -2,6 +2,13 @@
 
 All notable changes to Council will be documented in this file.
 
+## [1.2.0] - 2026-04-14
+
+### Added
+- Expositions on the Psalms (Augustine): 3 expositions (Psalm 1, 23, 51)
+- Ecumenical creeds expanded: Nicene, Apostles', Athanasian with historical context
+- Database milestone: 34 sources, 443 content units, 1,702 tag associations
+
 ## [1.1.0] - 2026-04-14
 
 ### Added
