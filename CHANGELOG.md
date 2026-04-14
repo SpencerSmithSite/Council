@@ -2,6 +2,13 @@
 
 All notable changes to Council will be documented in this file.
 
+## [1.6.0] - 2026-04-14
+
+### Added
+- Confessions (Augustine) expanded: books 1-3, 7 (Infancy, Childhood, Adolescence, Philosophy)
+- Great Catechism (Gregory of Nyssa) expanded: chapters 6, 7, 9 (Holy Spirit, Church, Baptism)
+- Database: 34 sources, 480 content units, 1,809 tag associations
+
 ## [1.5.0] - 2026-04-14
 
 ### Added
