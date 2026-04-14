@@ -15,6 +15,11 @@
 - [x] Add Augsburg Confession to database
 - [x] Add Athanasian Creed to database
 - [x] Add Nicene Creed to database
+- [x] Add Chalcedonian Definition to database
+- [x] Add Heidelberg Catechism content
+- [x] Add Belgic Confession content
+- [x] Add Small Catechism content
+- [x] Expand Lumen Gentium (chapters 4-8)
 - [x] Flutter app scaffolding
 - [x] Database service (SQLite + FTS5)
 - [x] Ollama service with streaming

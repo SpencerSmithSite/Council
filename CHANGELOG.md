@@ -2,6 +2,12 @@
 
 All notable changes to Council will be documented in this file.
 
+## [1.0.0] - 2026-04-14
+
+### Added
+- Expanded Lumen Gentium: chapters 4-8 (Laity, Holiness, Religious, Eschatology, Mary)
+- Database milestone: 34 sources, 415 content units, 1,645 tag associations
+
 ## [0.9.0] - 2026-04-14
 
 ### Added
