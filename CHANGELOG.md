@@ -2,6 +2,12 @@
 
 All notable changes to Council will be documented in this file.
 
+## [2.6.0] - 2026-04-14
+
+### Added
+- Council of Trent: 5 key canons (Scripture/Tradition, Justification, Sacraments, Transubstantiation, Original Sin)
+- Database: 35 sources, 535 content units
+
 ## [2.5.0] - 2026-04-14
 
 ### Added
