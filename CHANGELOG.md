@@ -2,6 +2,20 @@
 
 All notable changes to Council will be documented in this file.
 
+## [4.0.0] - 2026-04-14
+
+### 🎉 Major Milestone: 700+ Content Units, 75+ Sources
+
+- On the Soul and the Resurrection (Gregory of Nyssa): 3 chapters
+- On the Holy Icons (John of Damascus): 3 chapters
+- On the Orthodox Faith (John of Damascus): 3 books on Trinity, Incarnation, Sacraments
+- Life of Moses (Gregory of Nyssa): 3 chapters on typology
+- On the Trinity (Augustine): 3 books on Trinity
+
+### Stats
+- Database: 79 sources, 717 content units, 2,500+ tag associations
+- Traditions: Catholic, Reformed, Lutheran, Anglican, Eastern Orthodox, Early Church, Methodist, Anabaptist, Oriental Orthodox
+
 ## [3.9.0] - 2026-04-14
 
 ### Added
