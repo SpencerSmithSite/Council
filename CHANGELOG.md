@@ -2,6 +2,22 @@
 
 All notable changes to Council will be documented in this file.
 
+## [4.2.0] - 2026-04-14
+
+### Added
+- On the Unity of Christ (Cyril of Alexandria): 3 chapters on hypostatic union
+- On the Holy Spirit (Ambrose): 3 books on Spirit's deity and gifts
+- On the Incarnation (Cyril of Alexandria): 3 chapters on theosis
+- On the Mysteries (Cyril of Jerusalem): 3 lectures on sacraments
+- On the Trinity (Gregory of Nyssa): 3 chapters
+- On the Faith (Gregory Thaumaturgus): 3 chapters on Trinity, Incarnation, Judgment
+- On the Resurrection (Methodius of Olympus): 3 chapters
+- On the Nature of Man (Nemesius of Emesa): 3 chapters
+
+### Stats
+- Database: 93 sources, 759 content units
+- Early Church Fathers corpus significantly expanded
+
 ## [4.1.0] - 2026-04-14
 
 ### Added
