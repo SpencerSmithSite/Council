@@ -2,6 +2,26 @@
 
 All notable changes to Council will be documented in this file.
 
+## [9.0.0] - 2026-04-14
+
+### 🎉 Major Milestone: 1200+ Content Units!
+
+This session continued massive expansion of the Council theology database:
+
+**Augustine Works (Scriptural):**
+- On Genesis, On Exodus, Questions on the Heptateuch
+- On the Literal Meaning of Genesis, On the Harmony of the Gospels
+- On Faith and the Creed
+
+**Augustine Works (Philosophical):**
+- On the Magnitude of the Soul, On the Immortality of the Soul
+
+### Stats
+- Database: 236 sources, 1200 content units
+- 3,100+ tag associations
+- Comprehensive coverage of Augustines works
+- All major Christian traditions represented
+
 ## [8.0.0] - 2026-04-14
 
 ### 🎉 Major Milestone: 1200+ Content Units!
