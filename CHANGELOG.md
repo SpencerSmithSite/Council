@@ -2,6 +2,34 @@
 
 All notable changes to Council will be documented in this file.
 
+## [12.0.0] - 2026-04-14
+
+### 🎉 Major Milestone: 1400+ Content Units!
+
+This session completed comprehensive Early Church Fathers corpus:
+
+**Cyril of Jerusalem Works:**
+- Catechetical Lectures, On the Holy Spirit, On Baptism, On the Eucharist
+- On Chrismation, On the Cross
+
+**Leo the Great Works:**
+- On the Two Natures (Tome of Leo), Sermons
+
+**Ambrose Works:**
+- On the Holy Spirit, On the Sacraments, On the Duties of the Clergy, On Repentance
+
+**Gregory of Nyssa Works:**
+- On the Beatitudes, On the Lord's Prayer, On the Trinity, On the Soul
+
+**Dionysius Works:**
+- On the Ecclesiastical Hierarchy, On the Mystical Theology
+
+### Stats
+- Database: 286 sources, 1368 content units
+- 3,400+ tag associations
+- Comprehensive Early Church Fathers corpus complete
+- All major Christian traditions represented
+
 ## [11.0.0] - 2026-04-14
 
 ### 🎉 Major Milestone: 1300+ Content Units!
