@@ -2,6 +2,20 @@
 
 All notable changes to Council will be documented in this file.
 
+## [3.8.0] - 2026-04-14
+
+### Added
+- Book of Concord (Lutheran confessions): 3 sections
+- Smalcald Articles (Lutheran): 3 articles on Trinity, Redemption, Sanctification
+- Schleitheim Confession (Anabaptist): 3 articles on Baptism, Ban, Breaking of Bread
+- Dordrecht Confession (Anabaptist/Mennonite): 3 articles on God, Fall, New Birth
+- Westminster Larger Catechism (Reformed): 5 questions
+- Treatise on Grace and Free Will (Augustine): 3 chapters
+
+### Stats
+- Database: 70 sources, 690 content units, 2,400+ tag associations
+- Traditions: Catholic, Reformed, Lutheran, Anglican, Eastern Orthodox, Early Church, Methodist, Anabaptist
+
 ## [3.7.0] - 2026-04-14
 
 ### Added
