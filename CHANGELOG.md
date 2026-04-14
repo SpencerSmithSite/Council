@@ -2,6 +2,12 @@
 
 All notable changes to Council will be documented in this file.
 
+## [0.8.0] - 2026-04-14
+
+### Added
+- Heidelberg Catechism content: 10 key questions (comfort, sin, salvation, faith)
+- Belgic Confession content: 7 articles (God, Trinity, Christ, justification, baptism)
+
 ## [0.7.0] - 2026-04-14
 
 ### Added
