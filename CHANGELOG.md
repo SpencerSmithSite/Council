@@ -2,6 +2,18 @@
 
 All notable changes to Council will be documented in this file.
 
+## [3.9.0] - 2026-04-14
+
+### Added
+- On the Trinity (Hilary of Poitiers): 3 books on Trinity, Son, Spirit
+- On the Holy Spirit (Basil the Great): 3 chapters on Spirit in Scripture, Creation, Sanctification
+- Theological Orations (Gregory of Nazianzus): 3 orations on Trinity, Son, Spirit
+- On the Priesthood (John Chrysostom): 3 books on priestly office
+
+### Stats
+- Database: 74 sources, 702 content units
+- 700+ content units milestone!
+
 ## [3.8.0] - 2026-04-14
 
 ### Added
