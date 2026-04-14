@@ -2,6 +2,16 @@
 
 All notable changes to Council will be documented in this file.
 
+## [3.2.0] - 2026-04-14
+
+### 🎉 Milestone: 600+ Content Units
+
+- Database reached 602 content units across 51 sources
+- 2,300+ tag associations
+- Expanded: Westminster Confession, Canons of Dort, Council of Trent, Didache, Philokalia
+- Added: Catechism of St. Philaret (Eastern Orthodox)
+- Fixed: Athanasian Creed tradition set to Universal
+
 ## [3.1.0] - 2026-04-14
 
 ### Added
