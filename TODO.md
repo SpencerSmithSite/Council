@@ -11,7 +11,7 @@
 ## Completed
 - [x] Wire `generateStream()` to ChatScreen for real-time responses
 - [x] All sources populated — zero empty sources
-- [x] 🎉 **2300+ CONTENT UNITS!** 488 sources, 2311 content units
+- [x] 🎉 **2380+ CONTENT UNITS!** 495 sources, 2380 content units
 - [x] 🎉 **2000+ CONTENT UNITS!** 433 sources, 2000+ content units
 - [x] 🎉 **400+ SOURCES MILESTONE!**
 - [x] 12 Christian traditions represented
@@ -32,6 +32,7 @@
 - [x] Confessions and catechisms (Westminster, Heidelberg, Augsburg, Dort, Helvetic, Scots, London Baptist, Roman, Trent)
 - [x] Modern declarations (Belhar, Lausanne, Manhattan, Cambridge, Edinburgh)
 - [x] Philosophical theology (Kierkegaard, Boethius)
+- [x] Seven Ecumenical Councils
 - [x] Flutter app scaffolding
 - [x] Database service (SQLite + FTS5)
 - [x] Ollama service with streaming
@@ -40,8 +41,8 @@
 - [x] Initial push to GitHub
 
 ## Database Status
-- 🎉 **2311 content units!**
-- 488 sources across 12 Christian traditions
+- 🎉 **2380+ content units!**
+- 495 sources across 12 Christian traditions
 - Catholic, Reformed, Lutheran, Anglican, Eastern Orthodox, Early Church, Methodist, Baptist, Pentecostal, Oriental Orthodox, Universal, Ecumenical
 - 5,000+ tag associations
 - FTS5 search functional

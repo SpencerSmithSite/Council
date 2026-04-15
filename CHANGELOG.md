@@ -2,6 +2,81 @@
 
 All notable changes to Council will be documented in this file.
 
+## [24.0.0] - 2026-04-15
+
+### Major expansion: 495 sources, 2380 content units
+
+**New sources added this session (continuation from v23):**
+- Smalcald Articles (Luther)
+- On the Holy Spirit (Gregory of Nazianzus)
+- Odes of Solomon
+- Seven Ecumenical Councils (Nicaea through Nicaea II)
+- Canons of Trent
+- 95 Theses (Luther), Luther's Stand at Diet of Worms
+- Belhar Confession, Kairos Document
+- Cambridge Declaration, Lausanne Covenant
+- Manhattan Declaration, Edinburgh Missionary Conference
+- Catechism of the Catholic Church
+- Racovian Catechism
+- Confession of Dositheus (Orthodox)
+- To Autolycus (Theophilus), Plea for Christians (Athenagoras)
+
+**Expanded sources:**
+- Institutes (Calvin): 10→12
+- Desert Fathers: 5→7
+- Book of Common Prayer: 3→5
+- Pursuit of God (Tozer): 3→5
+- On the Incarnation (Athanasius): 3→5
+- On Holy Icons (John of Damascus): 3→5
+- Life of Antony (Athanasius): 3→5
+- On the Holy Spirit (Didymus): 3→5
+- Sermons of Leo: 3→5
+- Epistle of Barnabas: 3→5
+- First Apology of Justin Martyr: 3→5
+- Apology of Aristides: 3→5
+- Shepherd of Hermas: 12→14
+- Didache: 8→9
+- Westminster Confession: 15→17
+- Augsburg Confession: 1→4
+- Formula of Concord: 5→7
+- Westminster Larger Catechism: 5→7
+- London Baptist Confession: 6→8
+- Roman Catechism: 5→7
+- Luther's Large Catechism: 5→7
+- Interior Castle (Teresa): 6→8
+- Religious Affections (Edwards): 3→5
+- Freedom of a Christian (Luther): 3→5
+- Spiritual Exercises (Ignatius): 5→7
+- Dark Night of the Soul: 3→5
+- Pilgrim's Progress Part 2: 3→5
+- Longer Catechism of Philaret: 2→5
+- Canons of Dort: 8→10
+- Second Helvetic Confession: 7→9
+- On Repentance (Ambrose): 6→8
+- Against Praxeas (Tertullian): 4→6
+- Chrysostom (Priesthood, Romans): expanded
+- Basil on Holy Spirit: 6→8
+- Cyril of Jerusalem: 3→5
+- John of Damascus: 6→10
+- Great Catechism (Gregory of Nyssa): 7→9
+- Way of a Pilgrim: 3→5
+- Orthodox Way (Ware): 3→5
+- Church Dogmatics (Barth): 3→5
+- Epistle to Diognetus: 3→5
+- City of God (Augustine): 11→13
+- On Christian Doctrine (Augustine): 5→7
+- On the Trinity (Augustine): 8→10
+- On Free Choice of the Will (Augustine): 5→7
+- Summa Contra Gentiles (Aquinas): 4→6
+- Council of Chalcedon: 3→5
+- Ladder of Divine Ascent: 9→12→15
+- Philokalia: 6→8
+- Imitation of Christ: 5→7→8
+- Confessions (Augustine): 13→14
+- Rule of St. Benedict: 4→7
+- Heidelberg Catechism: 14 (already full)
+- Thirty-Nine Articles: 44 (already full)
+
 ## [23.0.0] - 2026-04-15
 
 ### Major expansion: 488 sources, 2311 content units
