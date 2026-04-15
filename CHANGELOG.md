@@ -2,6 +2,48 @@
 
 All notable changes to Council will be documented in this file.
 
+## [22.0.0] - 2026-04-15
+
+### Major expansion: 463 sources, 2177 content units
+
+**New sources added this session:**
+- Tome of Leo (Christological definition)
+- Nicene Creed (325 AD Original)
+- Liturgy of St. John Chrysostom
+- Holy Communion (BCP)
+- Second Apology (Justin Martyr)
+- Proof of the Apostolic Preaching (Irenaeus)
+- Stromata & Instructor (Clement of Alexandria)
+- On the Holy Spirit (Athanasius)
+- Martyrdom of Polycarp
+- Epistles of Ignatius (Romans, Smyrnaeans)
+- On the Soul and Resurrection, On the Making of Man (Gregory of Nyssa)
+- On the Duties of the Clergy (Ambrose)
+- On the Spirit and the Letter, On Free Choice of the Will (Augustine expanded)
+- On the Priesthood (Chrysostom expanded)
+- Theologia Germanica, Meister Eckhart Sermons
+- Treatise on the Love of God, Introduction to the Devout Life (Francis de Sales)
+- Spiritual Combat (Scupoli)
+- Christian's Reasonable Service (Brakel)
+- Existence and Attributes of God (Charnock)
+- Method of Grace (Flavel)
+- Book of Common Order (Knox)
+- Saving Conversion (Stoddard)
+- Gospel Mystery of Sanctification (Marshall)
+- Saints' Everlasting Rest (Baxter)
+- Canons of Nicaea (325)
+- Canons of Constantinople (381)
+- Decretum of Gratian
+- Commentary on John (Origen)
+- On the Holy Trinity (Boethius)
+- Consolation of Philosophy (Boethius)
+- Apostolic Tradition (Hippolytus)
+- Creeds of Christendom (Schaff)
+- Christus Victor (Aulén)
+- Scots Confession (1560)
+
+**Expanded sources:** City of God, Confessions, Institutes, Imitation of Christ, Rule of St. Benedict, Ladder of Divine Ascent, Philokalia, Basil on Holy Spirit, Cyril of Jerusalem, John of Damascus, Great Catechism, Way of a Pilgrim, Orthodox Way, Church Dogmatics, Epistle to Diognetus, Against Praxeas, Canons of Dort, Second Helvetic Confession, Formula of Concord, Westminster Larger Catechism, London Baptist Confession, Didache, Against Heresies
+
 ## [21.0.0] - 2026-04-14
 
 ### 🎉 2000 CONTENT UNITS MILESTONE!
