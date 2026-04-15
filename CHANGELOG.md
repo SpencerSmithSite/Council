@@ -2,6 +2,61 @@
 
 All notable changes to Council will be documented in this file.
 
+## [17.0.0] - 2026-04-14
+
+### 🎉 Major Expansion: 357 Sources, 1686 Content Units!
+
+**Late evening autonomous session added 25+ new sources:**
+
+**Methodist:**
+- Plain Account of Methodists (Wesley)
+- The New Birth (Wesley)
+- Celebration of Discipline (Foster)
+
+**Baptist:**
+- Baptist Faith and Message (SBC)
+- Pilgrims Progress Part 2 (Bunyan)
+
+**Pentecostal:**
+- Azusa Street (Bartleman)
+- The Pursuit of God (Tozer)
+
+**Oriental Orthodox:**
+- Hymns on the Nativity (Ephrem)
+
+**Eastern Orthodox:**
+- Desert Fathers Sayings
+- On Holy Icons (Theodore Studite)
+- Life of Moses (Gregory of Nyssa)
+- Way of a Pilgrim (extended)
+- Celtic Theology of Trinity
+
+**Catholic:**
+- Spiritual Exercises (Ignatius)
+- Interior Castle (Teresa of Avila)
+- Dark Night of the Soul (extended)
+- Long Loneliness (Dorothy Day)
+
+**Reformed:**
+- Religious Affections (Edwards)
+- Sinners in Hands of Angry God (Edwards)
+
+**Anglican:**
+- Utmost for His Highest (Chambers)
+
+**Lutheran:**
+- Freedom of a Christian (Luther)
+- Letters and Papers from Prison (Bonhoeffer)
+
+**Early Church:**
+- On the Incarnation (Athanasius)
+- Epistle to Diognetus
+
+**Expanded existing sources:**
+- Westminster Confession: 8→15 content units
+- Augsburg Confession: 10→15 content units
+- Imitation of Christ: 3→5 content units
+
 ## [16.0.0] - 2026-04-14
 
 ### 🎉 Major Expansion: 338 Sources, 1596 Content Units!
