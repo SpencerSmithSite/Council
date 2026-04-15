@@ -2,6 +2,52 @@
 
 All notable changes to Council will be documented in this file.
 
+## [23.0.0] - 2026-04-15
+
+### Major expansion: 488 sources, 2311 content units
+
+**New sources added this session (continuation from v22):**
+- 1 Clement, Apostolic Tradition (Hippolytus)
+- Martyrdom of Polycarp, Ignatius epistles
+- On the Holy Spirit (Athanasius), Life of Moses expanded
+- On the Soul/Resurrection/Making of Man (Gregory of Nyssa)
+- Duties of the Clergy (Ambrose)
+- On the Spirit/Letter, On Free Choice of Will (Augustine)
+- Chrysostom expanded (Priesthood, Romans)
+- Theologia Germanica, Meister Eckhart, Francis de Sales x2
+- Spiritual Combat (Scupoli)
+- Brakel, Charnock, Flavel, Stoddard, Marshall
+- Knox, Baxter (Saints' Everlasting Rest)
+- Canons of Nicaea/Constantinople, Decretum of Gratian
+- Commentary on John (Origen), Against Praxeas expanded
+- Boethius (Trinity, Consolation)
+- Creeds of Christendom (Schaff), Christus Victor (Aulén)
+- Scots Confession, Westminster Shorter Catechism
+- Formula of Concord expanded, London Baptist Confession expanded
+- Babylonian Captivity, Bondage of the Will (Luther)
+- Cost of Discipleship (Bonhoeffer)
+- Apology of Augsburg, On Power/Primacy of Pope (Melanchthon)
+- 1 Clement, Kierkegaard x2
+- Orthodox Confession (Mogila), Confession of Dositheus
+- Racovian Catechism, Catechism of Catholic Church
+- Belhar Confession, Kairos Document
+- Cambridge Declaration, Lausanne Covenant
+- Manhattan Declaration, Edinburgh Missionary Conference
+- 95 Theses, Diet of Worms (Luther)
+- Canons of Trent, Decretum of Gratian expanded
+- Practice of Presence of God (Lawrence)
+- Christian's Secret of Happy Life (Smith)
+- Reformed Pastor (Baxter) expanded
+- Westminster Confession, Augsburg Confession expanded
+- Roman Catechism, Luther's Large Catechism expanded
+- Pilgrim's Progress Part 2 expanded
+- Interior Castle (Teresa) expanded
+- Religious Affections (Edwards) expanded
+- Freedom of a Christian (Luther) expanded
+- Didache, Shepherd of Hermas expanded
+- Longer Catechism of Philaret expanded
+- Canons of Dort, Second Helvetic expanded
+
 ## [22.0.0] - 2026-04-15
 
 ### Major expansion: 463 sources, 2177 content units
