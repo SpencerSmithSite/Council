@@ -2,6 +2,45 @@
 
 All notable changes to Council will be documented in this file.
 
+## [18.0.0] - 2026-04-14
+
+### 🎉 Major Expansion: 375 Sources, 1767 Content Units!
+
+**Full evening autonomous session — 60+ new sources and expansions:**
+
+**New Sources Added:**
+- Methodist: Plain Account of Methodists (Wesley), The New Birth (Wesley), Celebration of Discipline (Foster)
+- Baptist: Baptist Faith and Message (SBC), Pilgrim's Progress Part 2 (Bunyan), Baptist Soul Freedom (Mullins)
+- Pentecostal: Azusa Street (Bartleman), Pursuit of God (Tozer), Baptism of Holy Spirit (Smith)
+- Oriental Orthodox: Hymns on Nativity (Ephrem), Unity of Christ (Cyril of Alexandria)
+- Eastern Orthodox: Desert Fathers Sayings, On Holy Icons (Theodore Studite), Life of Moses (Gregory of Nyssa), Way of a Pilgrim, Celtic Theology, Orthodox Way (Ware)
+- Catholic: Spiritual Exercises (Ignatius), Interior Castle (Teresa of Avila), Long Loneliness (Dorothy Day), Name of God is Mercy (Pope Francis), Theology of Hope (Moltmann), Theology of the Body (John Paul II), Enchiridion (Augustine), Proslogion (Anselm)
+- Reformed: Religious Affections (Edwards), Sinners in Hands of Angry God (Edwards), God Who Is There (Schaeffer), Desiring the Kingdom (Smith), Church Dogmatics (Barth)
+- Anglican: Utmost for His Highest (Chambers), Christian Year (Keble)
+- Lutheran: Freedom of a Christian (Luther), Letters and Papers from Prison (Bonhoeffer)
+- Early Church: On the Incarnation (Athanasius), Epistle to Diognetus
+- Liberal: Christian Faith (Schleiermacher)
+
+**Expanded Existing Sources:**
+- Westminster Confession: 8→15 units
+- Augsburg Confession: 10→15 units
+- Imitation of Christ: 3→5 units
+- City of God (Augustine): 3→9 units
+- Summa Theologica (Aquinas): 3→8 units
+- Institutes (Calvin): 3→8 units
+- Mere Christianity (Lewis): 3→6 units
+- Ladder of Divine Ascent (Climacus): 9→12 units
+- Luther's Large Catechism: 3→5 units
+- Book of Concord: 3→4 units
+- Shepherd of Hermas: 3→5 units
+- Epistle of Barnabas: 3→4 units
+- Council of Chalcedon: 2→3 units
+
+### Stats
+- Database: 375 sources, 1767 content units
+- 12 traditions, all with 3+ sources
+- 30+ git commits
+
 ## [17.0.0] - 2026-04-14
 
 ### 🎉 Major Expansion: 357 Sources, 1686 Content Units!
