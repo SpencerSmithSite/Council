@@ -2,6 +2,27 @@
 
 All notable changes to Council will be documented in this file.
 
+## [30.0.0] - 2026-04-15
+
+### 🎉 ALL THIN SOURCES EXPANDED — ZERO REMAINING!
+
+**Database: 523 sources, 3014 content units, 12 traditions**
+
+**Milestone:** Every source in the database now has at least 5 content units. Zero sources remain at 3 units.
+
+**Expanded this version:**
+- All remaining 86 thin sources expanded from 3→5 units
+- Patristic: Augustine (4), Chrysostom (4), Hilary, Gregory Nyssa, Basil, Cyril (2), Cyprian (2), Tertullian (2), Ambrose, Origen, Cassian, Antony
+- Reformation: Luther (2), Cambridge Declaration, Westminster Catechism, Babylonian Captivity, Freedom of Christian, 95 Theses
+- Modern: Wright (3), Moltmann, Stott, Lewis (2), Yancey, Warren, Schaeffer, Bonhoeffer, Manning, Ten Boom, Boethius, Teresa of Avila, Charnock, Frame, Piper, Wilkerson, Taylor, Brakel
+- Biblical key passages: Romans, Acts, Hebrews, Jeremiah, Exodus, Colossians, Ephesians, 1 John, James, Pastoral Epistles, Catholic Epistles
+- Confessional: Theologia Germanica, Nicene Creed 325, Catechetical Lectures
+- Celtic: Celtic Theology Trinity
+- Baptist: Soul Freedom (Mullins)
+- Pentecostal: Baptism Holy Spirit (Smith x2)
+- Ascetical: Life of Antony, On Hexaemeron, On the Synods, Councils of Ariminum
+- Total new content units since v29: ~150
+
 ## [29.0.0] - 2026-04-15
 
 ### 🎉 3,000 CONTENT UNITS!
