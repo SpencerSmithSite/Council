@@ -2,6 +2,21 @@
 
 All notable changes to Council will be documented in this file.
 
+## [28.0.0] - 2026-04-15
+
+### 2,900 CONTENT UNITS!
+
+**Database: 523 sources, 2902 content units, 12 traditions**
+
+**Expanded this version:**
+- 100+ thin sources expanded from 3 to 5 units each
+- Patristic: Augustine (8 works), Chrysostom (5), Gregory Nyssa (5), Cyril (3), Basil, Tertullian (3), Ambrose (3), Ephrem (2), Irenaeus, Hippolytus, Origen, Justin Martyr, Clement of Alexandria, Cyprian, Clement of Rome
+- Reformation: Luther (3), Calvin, Augsburg Confession, Scots Confession, Bonhoeffer (2)
+- Modern: Barth, Moltmann, Packer, Tozer, Lewis (4), Piper, Foster, Stott (3), Schaeffer (2), Wright (2), Yancey, Wilkerson, Chambers, Merton, Pascal, Kierkegaard, Dostoevsky, McDowell, Strobel, Scupoli, de Sales (2), Baxter, Smith (2), Scougal, Ames, Erickson, Grudem, Webster, Vanhoozer, Murray
+- Biblical key passages: Isaiah, Ezekiel, Genesis, Exodus, Deuteronomy, Job, Daniel, Colossians, 1 Peter, 1 Thess, 2 Cor, Galatians, James, Revelation, Sermon on Mount
+- Liturgical: Chrysostom Liturgy, BCP, Apostolic Tradition, Cyril Catechetical Lectures
+- Total new content units since v27: ~150
+
 ## [27.0.0] - 2026-04-15
 
 ### 🎉 2,800 CONTENT UNITS!
