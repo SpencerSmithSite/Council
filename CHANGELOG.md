@@ -2,6 +2,23 @@
 
 All notable changes to Council will be documented in this file.
 
+## [29.0.0] - 2026-04-15
+
+### 🎉 3,000 CONTENT UNITS!
+
+**Database: 523 sources, 3000 content units, 12 traditions**
+
+**Expanded this version:**
+- 50+ thin sources expanded from 3→5 units each
+- Patristic: Augustine (6), Chrysostom (5), Gregory Nyssa, Cyril, Basil, Tertullian (2), Cyprian (3), Ambrose, Hilary, Origen
+- Reformation: Luther (2), Cambridge Declaration, Freedom of a Christian, 95 Theses
+- Modern: Moltmann, Stott (2), Lewis (2), Yancey, Warren, Schaeffer, Bonhoeffer, Manning, Ten Boom, Boethius, Teresa of Avila, Charnock, Frame, Wright
+- Biblical key passages: Romans, Acts, Hebrews, Jeremiah, Exodus, Colossians, Ephesians
+- Confessional: Westminster Shorter Catechism, Theologia Germanica, Nicene Creed 325
+- Celtic: Celtic Theology Trinity
+- Baptist: Soul Freedom (Mullins)
+- Total new content units since v28: ~100
+
 ## [28.0.0] - 2026-04-15
 
 ### 2,900 CONTENT UNITS!
