@@ -3,6 +3,11 @@ import 'package:provider/provider.dart';
 
 import '../services/database_service.dart';
 import 'random_passage_screen.dart';
+import 'search_screen.dart';
+import 'chat_screen.dart';
+import 'browse_screen.dart';
+import 'bookmarks_screen.dart';
+import 'recently_viewed_screen.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
@@ -142,8 +147,10 @@ class _HomeScreenState extends State<HomeScreen> {
             title: 'Search',
             subtitle: 'Find content across all sources',
             onTap: () {
-              // Will navigate via DefaultTabController - but we removed it
-              // For now, this just shows the card - navigation is via bottom nav
+              Navigator.push(
+                context,
+                MaterialPageRoute(builder: (context) => const SearchScreen()),
+              );
             },
           ),
           
@@ -154,7 +161,10 @@ class _HomeScreenState extends State<HomeScreen> {
             title: 'Ask AI',
             subtitle: 'Query theological content with AI',
             onTap: () {
-              // Will navigate via bottom nav
+              Navigator.push(
+                context,
+                MaterialPageRoute(builder: (context) => const ChatScreen()),
+              );
             },
           ),
           
@@ -168,6 +178,48 @@ class _HomeScreenState extends State<HomeScreen> {
               Navigator.push(
                 context,
                 MaterialPageRoute(builder: (context) => const RandomPassageScreen()),
+              );
+            },
+          ),
+          
+          const SizedBox(height: 8),
+          
+          _QuickActionCard(
+            icon: Icons.menu_book,
+            title: 'Browse',
+            subtitle: 'Explore by tradition or source type',
+            onTap: () {
+              Navigator.push(
+                context,
+                MaterialPageRoute(builder: (context) => const BrowseScreen()),
+              );
+            },
+          ),
+          
+          const SizedBox(height: 8),
+          
+          _QuickActionCard(
+            icon: Icons.bookmark,
+            title: 'Bookmarks',
+            subtitle: 'Your saved passages',
+            onTap: () {
+              Navigator.push(
+                context,
+                MaterialPageRoute(builder: (context) => const BookmarksScreen()),
+              );
+            },
+          ),
+          
+          const SizedBox(height: 8),
+          
+          _QuickActionCard(
+            icon: Icons.history,
+            title: 'Recently Viewed',
+            subtitle: 'Passages you\'ve read',
+            onTap: () {
+              Navigator.push(
+                context,
+                MaterialPageRoute(builder: (context) => const RecentlyViewedScreen()),
               );
             },
           ),
