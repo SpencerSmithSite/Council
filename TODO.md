@@ -1,12 +1,13 @@
 # Council TODO
 
 ## In Progress
-- [ ] Test streaming responses on device (needs Xcode)
+- [ ] Test streaming responses on device (needs Xcode installed)
 
 ## Next
-- [ ] Add more content to thin sources (many have only 3-4 units)
+- [x] ~~Test on web~~ ✅ Web build works (tested Apr 24)
+- [ ] Test on macOS (needs Xcode)
+- [ ] Add more content to thin sources
 - [ ] Semantic search with embeddings
-- [ ] Test on web/macOS as alternative to iOS
 
 ## Completed
 - [x] Wire `generateStream()` to ChatScreen for real-time responses
