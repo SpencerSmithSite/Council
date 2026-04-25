@@ -8,6 +8,7 @@ import 'chat_screen.dart';
 import 'browse_screen.dart';
 import 'bookmarks_screen.dart';
 import 'recently_viewed_screen.dart';
+import 'settings_screen.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
@@ -220,6 +221,20 @@ class _HomeScreenState extends State<HomeScreen> {
               Navigator.push(
                 context,
                 MaterialPageRoute(builder: (context) => const RecentlyViewedScreen()),
+              );
+            },
+          ),
+          
+          const SizedBox(height: 8),
+          
+          _QuickActionCard(
+            icon: Icons.settings,
+            title: 'Settings',
+            subtitle: 'Appearance and preferences',
+            onTap: () {
+              Navigator.push(
+                context,
+                MaterialPageRoute(builder: (context) => const SettingsScreen()),
               );
             },
           ),
