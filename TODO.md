@@ -9,10 +9,10 @@
 - [x] ~~Random passage~~ ✅ Added Apr 24
 - [x] ~~Search history~~ ✅ Added Apr 24
 - [x] ~~Recently viewed tracking~~ ✅ Added Apr 24
-- [x] ~~Settings service~~ ✅ Added Apr 24
+- [x] ~~Recently viewed screen~~ ✅ Added Apr 24
+- [x] ~~Settings screen~~ ✅ Added Apr 24
+- [x] ~~Home screen quick actions~~ ✅ Added Apr 24
 - [ ] Test on macOS (needs Xcode)
-- [ ] Settings screen UI
-- [ ] Recently viewed screen UI
 - [ ] Add more content to thin sources
 - [ ] Semantic search with embeddings
 
