@@ -1,6 +1,19 @@
+# IDE
+.idea/
+*.iml
+.metadata
+
+# Flutter
 .dart_tool/
-.flutter-plugins
 .flutter-plugins-dependencies
 build/
-*.lock
-!pubspec.lock
+
+# Logs
+*.log
+flutter_*.log
+
+# OS
+.DS_Store
+
+# Tests (placeholder for now)
+test/
