@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
 import '../services/database_service.dart';
+import 'content_detail_screen.dart';
 
 class SearchScreen extends StatefulWidget {
   const SearchScreen({super.key});
@@ -200,17 +201,3 @@ class _SearchResultTile extends StatelessWidget {
   }
 }
 
-// Placeholder - will be replaced with actual import
-class ContentDetailScreen extends StatelessWidget {
-  final int contentId;
-  
-  const ContentDetailScreen({super.key, required this.contentId});
-  
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(title: const Text('Content')),
-      body: const Center(child: Text('Content detail view')),
-    );
-  }
-}

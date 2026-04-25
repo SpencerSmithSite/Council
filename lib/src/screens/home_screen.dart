@@ -140,10 +140,6 @@ class _HomeScreenState extends State<HomeScreen> {
             icon: Icons.search,
             title: 'Search',
             subtitle: 'Find content across all sources',
-            onTap: () {
-              // Navigate to search tab
-              DefaultTabController.of(context).animateTo(2);
-            },
           ),
           
           const SizedBox(height: 8),
@@ -152,10 +148,6 @@ class _HomeScreenState extends State<HomeScreen> {
             icon: Icons.chat,
             title: 'Ask AI',
             subtitle: 'Query theological content with AI',
-            onTap: () {
-              // Navigate to chat tab
-              DefaultTabController.of(context).animateTo(3);
-            },
           ),
           
           const SizedBox(height: 8),
@@ -164,10 +156,6 @@ class _HomeScreenState extends State<HomeScreen> {
             icon: Icons.menu_book,
             title: 'Browse',
             subtitle: 'Explore by tradition or source type',
-            onTap: () {
-              // Navigate to browse tab
-              DefaultTabController.of(context).animateTo(1);
-            },
           ),
         ],
       ),
@@ -216,13 +204,11 @@ class _QuickActionCard extends StatelessWidget {
   final IconData icon;
   final String title;
   final String subtitle;
-  final VoidCallback onTap;
   
   const _QuickActionCard({
     required this.icon,
     required this.title,
     required this.subtitle,
-    required this.onTap,
   });
   
   @override
@@ -233,7 +219,6 @@ class _QuickActionCard extends StatelessWidget {
         title: Text(title),
         subtitle: Text(subtitle),
         trailing: const Icon(Icons.chevron_right),
-        onTap: onTap,
       ),
     );
   }

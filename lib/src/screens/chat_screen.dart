@@ -425,7 +425,7 @@ class _SuggestionChip extends StatelessWidget {
   final String text;
   final Function(String)? onTap;
   
-  const _SuggestionChip(this.text, {super.key, this.onTap});
+  const _SuggestionChip(this.text, {this.onTap});
   
   @override
   Widget build(BuildContext context) {
