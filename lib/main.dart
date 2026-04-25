@@ -6,6 +6,7 @@ import 'src/screens/home_screen.dart';
 import 'src/screens/search_screen.dart';
 import 'src/screens/browse_screen.dart';
 import 'src/screens/chat_screen.dart';
+import 'src/screens/bookmarks_screen.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -66,6 +67,7 @@ class _MainScreenState extends State<MainScreen> {
     const BrowseScreen(),
     const SearchScreen(),
     const ChatScreen(),
+    const BookmarksScreen(),
   ];
   
   @override
@@ -99,6 +101,11 @@ class _MainScreenState extends State<MainScreen> {
             icon: Icon(Icons.chat_outlined),
             selectedIcon: Icon(Icons.chat),
             label: 'Chat',
+          ),
+          NavigationDestination(
+            icon: Icon(Icons.bookmark_outline),
+            selectedIcon: Icon(Icons.bookmark),
+            label: 'Bookmarks',
           ),
         ],
       ),

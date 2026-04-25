@@ -3,6 +3,7 @@ import 'package:flutter_markdown/flutter_markdown.dart';
 import 'package:provider/provider.dart';
 
 import '../services/database_service.dart';
+import '../services/bookmark_service.dart';
 
 class ContentDetailScreen extends StatefulWidget {
   final int? sourceId;
@@ -24,11 +25,26 @@ class _ContentDetailScreenState extends State<ContentDetailScreen> {
   Map<String, dynamic>? _singleContent;
   List<Map<String, dynamic>>? _tags;
   bool _isLoading = true;
+  bool _isBookmarked = false;
+  
+  late final BookmarkService _bookmarkService;
   
   @override
   void initState() {
     super.initState();
+    _bookmarkService = BookmarkService();
     _loadContent();
+  }
+  
+  Future<void> _checkBookmarkStatus() async {
+    if (widget.contentId != null) {
+      final isBookmarked = await _bookmarkService.isBookmarked(widget.contentId!);
+      if (mounted) {
+        setState(() {
+          _isBookmarked = isBookmarked;
+        });
+      }
+    }
   }
   
   Future<void> _loadContent() async {
@@ -44,6 +60,7 @@ class _ContentDetailScreenState extends State<ContentDetailScreen> {
           _tags = tags;
           _isLoading = false;
         });
+        _checkBookmarkStatus();
       }
     } else if (widget.sourceId != null) {
       // Load all content for source
@@ -63,6 +80,10 @@ class _ContentDetailScreenState extends State<ContentDetailScreen> {
       appBar: AppBar(
         title: Text(_getTitle()),
         actions: [
+          IconButton(
+            icon: Icon(_isBookmarked ? Icons.bookmark : Icons.bookmark_outline),
+            onPressed: _toggleBookmark,
+          ),
           IconButton(
             icon: const Icon(Icons.share),
             onPressed: () {
@@ -218,6 +239,35 @@ class _ContentDetailScreenState extends State<ContentDetailScreen> {
         return 'Canon';
       default:
         return type[0].toUpperCase() + type.substring(1);
+    }
+  }
+  
+  void _toggleBookmark() async {
+    if (widget.contentId == null || _singleContent == null) return;
+    
+    final content = _singleContent!;
+    final title = content['title'] ?? 'Untitled';
+    final source = content['source_title'] ?? 'Unknown Source';
+    final preview = _getPreview(content['content'] ?? '');
+    
+    final isNowBookmarked = await _bookmarkService.toggleBookmark(
+      contentId: widget.contentId!,
+      title: title,
+      source: source,
+      preview: preview,
+    );
+    
+    if (mounted) {
+      setState(() {
+        _isBookmarked = isNowBookmarked;
+      });
+      
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(
+          content: Text(isNowBookmarked ? 'Added to bookmarks' : 'Removed from bookmarks'),
+          duration: const Duration(seconds: 2),
+        ),
+      );
     }
   }
   
