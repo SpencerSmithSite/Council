@@ -43,7 +43,7 @@ class _HomeScreenState extends State<HomeScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Theology App'),
+        title: const Text('Council'),
         centerTitle: true,
       ),
       body: _isLoading
