@@ -30,7 +30,7 @@ class TheologyApp extends StatelessWidget {
         Provider<DatabaseService>.value(value: dbService),
       ],
       child: MaterialApp(
-        title: 'Theology App',
+        title: 'Council',
         theme: ThemeData(
           colorScheme: ColorScheme.fromSeed(
             seedColor: Colors.deepPurple,
